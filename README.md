@@ -69,5 +69,5 @@ API Data received successfully as a JSON file
 ![json-data](./image/img-data.png)
 
 # License
-
+This project is licensed under the [MIT License](./LICENSE).
 
