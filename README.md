@@ -1,6 +1,6 @@
 # 30-Days DevOps Challenge - Weather Dashboard (Day 1)
 
-This project is a Python-based system that collects real-time weather data from the OpenWeather API and stores it in AWS S3. It's designed with DevOps best practices in mind, including infrastructure as code, version control, and robust error handling. The system can track weather conditions (temperature, humidity, etc.) for multiple cities and automatically archives the data in the cloud for further analysis.
+This project is a Python script that collects real-time weather data from the OpenWeather API and stores it in AWS S3. It's designed with DevOps best practices in mind, including infrastructure as code, version control, and robust error handling. The system can track weather conditions (temperature, humidity, etc.) for multiple cities and automatically archives the data in the cloud for further analysis.
 
 ## Prerequisites
 
